@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "OjaAngularEcommerce"
+    }
+  },
+  "defaultProject": "OjaAngularEcommerce",
+  "cli": {
+    "analytics": false
+  }
 }
